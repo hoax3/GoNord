@@ -113,10 +113,3 @@ elif color_int=='4':
         aurora()
     except Exception as e:
         print(e)
-
-#go_nord=GoNord()
-#go_nord.enable_avg_algorithm()
-#go_nord.add_file_to_palette(NordPaletteFile.POLAR_NIGHT)
-
-#image = go_nord.open_image("/home/justin/Firefox_wallpaper.png")
-#go_nord.convert_image(image, save_path='/home/justin/test.png')
